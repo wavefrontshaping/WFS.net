@@ -4,6 +4,7 @@ Support material for the wavefrontshaping.net [tutorials](http://wavefrontshapin
 
 ## General 
 * **semidefinite_TM_example.ipynb** Example of the usage of the [semidefinite programming approach](http://wavefrontshaping.net/index.php/component/content/article/63-community/tutorials/phase-measurement/158-semidefinite-programming-for-intensity-only-estimation-of-the-transmission-matrix) for the estimation of the transmission matrix from intensity only measurements.
+* **blazing_angle_DMD.ipynb** Simulation of the diffractions [effect using Digital Micromirror Devices (DMD)](http://wavefrontshaping.net/index.php/component/content/article/57-community/tutorials/spatial-lights-modulators-slms/131-setting-up-a-dmd-diffraction-effects).
 
 ## Multimode fibers
 
