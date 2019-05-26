@@ -1,6 +1,5 @@
 # Wavefrontshaping.net examples
-
-Resources from the wavefrontshaping.net [tutorials](http://wavefrontshaping.net/index.php/tutorials).
+Support material for the wavefrontshaping.net [tutorials](http://wavefrontshaping.net/index.php/tutorials).
 
 
 ## General 
@@ -9,3 +8,4 @@ Resources from the wavefrontshaping.net [tutorials](http://wavefrontshaping.net/
 ## Multimode fibers
 
 * **compare_bending_methods.ipynb** Example for [pyMMF](https://github.com/wavefrontshaping/pyMMF). Compare the two bending methods as explained [here](http://wavefrontshaping.net/index.php/component/content/article/68-community/tutorials/multimode-fibers/149-multimode-fiber-modes-part-2).
+* **benchmark_step_index.ipynb** Comparison between semi-analytical solution and simulation for propagating modes of step-index fibers using [pyMMF](https://github.com/wavefrontshaping/pyMMF). See [tutorial](http://wavefrontshaping.net/index.php/component/content/article/68-community/tutorials/multimode-fibers/153-pymmf-step-index-benchmark).
