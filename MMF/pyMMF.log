@@ -1,0 +1,38 @@
+2019-11-13 16:45:41,792 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2019-11-13 16:45:44,452 - pyMMF.SI   [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2019-11-13 16:45:46,242 - pyMMF.SI   [INFO   ]  Found 59 modes is 1.79 seconds.
+2019-11-13 16:45:51,936 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2019-11-13 16:45:51,942 - pyMMF.core [INFO   ]  Solving the spatial eigenvalue problem for mode finding.
+2019-11-13 16:45:51,943 - pyMMF.core [INFO   ]  Use close boundary condition.
+2019-11-13 16:48:02,525 - pyMMF.core [INFO   ]  Solver found 59 modes is 130.58 seconds.
+2019-11-13 16:48:02,527 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2019-11-13 16:55:46,134 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2019-11-13 16:55:48,585 - pyMMF.SI   [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2019-11-13 16:56:27,491 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2019-11-13 16:56:28,664 - pyMMF.SI   [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2019-11-13 16:56:28,709 - pyMMF.SI   [INFO   ]  Found 0 modes is 0.04 seconds.
+2019-11-13 16:56:28,710 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2019-11-13 16:56:30,550 - pyMMF.core [INFO   ]  Solving the spatial eigenvalue problem for mode finding.
+2019-11-13 16:56:30,554 - pyMMF.core [INFO   ]  Use close boundary condition.
+2019-11-13 16:58:42,344 - pyMMF.core [INFO   ]  Solver found 59 modes is 131.79 seconds.
+2019-11-13 16:58:42,346 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2019-11-13 17:00:54,118 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2019-11-13 17:00:56,439 - pyMMF.SI   [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2019-11-13 17:00:56,494 - pyMMF.SI   [INFO   ]  Found 0 modes is 0.05 seconds.
+2019-11-13 17:00:56,495 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2019-11-13 17:02:05,406 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2019-11-13 17:02:08,400 - pyMMF.SI   [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2019-11-13 17:02:08,548 - pyMMF.SI   [INFO   ]  Found 15 modes is 0.15 seconds.
+2019-11-13 17:02:08,845 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2019-11-13 17:02:11,649 - pyMMF.core [INFO   ]  Solving the spatial eigenvalue problem for mode finding.
+2019-11-13 17:02:11,652 - pyMMF.core [INFO   ]  Use close boundary condition.
+2019-11-13 17:02:16,580 - pyMMF.core [INFO   ]  Solver found 15 modes is 4.93 seconds.
+2019-11-13 17:02:16,580 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2019-11-13 17:02:26,068 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2019-11-13 17:02:26,276 - pyMMF.SI   [INFO   ]  Finding the propagation constant of step index fiber by numerically solving the dispersion relation.
+2019-11-13 17:02:26,637 - pyMMF.SI   [INFO   ]  Found 59 modes is 0.36 seconds.
+2019-11-13 17:02:32,755 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2019-11-13 17:02:32,763 - pyMMF.core [INFO   ]  Solving the spatial eigenvalue problem for mode finding.
+2019-11-13 17:02:32,764 - pyMMF.core [INFO   ]  Use close boundary condition.
+2019-11-13 17:04:50,701 - pyMMF.core [INFO   ]  Solver found 59 modes is 137.94 seconds.
+2019-11-13 17:04:50,702 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
